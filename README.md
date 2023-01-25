@@ -13,8 +13,8 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 - [x] Criar páginas
   - [x] Rota home
   - [x] Rota com detalhes do país
-- [] Criar testes unitários
-- [] Fazer deploy do projeto no Vercel
+- [ ] Criar testes unitários
+- [ ] Fazer deploy do projeto no Vercel
 
 ### The challenge
 
