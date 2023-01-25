@@ -13,6 +13,7 @@ This is a solution to the [REST Countries API challenge on Frontend Mentor](http
 - [x] Criar páginas
   - [x] Rota home
   - [x] Rota com detalhes do país
+- [x] Responsivo
 - [ ] Criar testes unitários
 - [ ] Fazer deploy do projeto no Vercel
 
