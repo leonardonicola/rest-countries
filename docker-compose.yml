@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+  app:
+    build: .
+    image: leonardonicola/rest-countries:v2
+    working_dir: /app
+    ports:
+      - "5173:5173"
+    command: npm run dev

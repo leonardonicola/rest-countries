@@ -61,7 +61,7 @@ function showMore(): void {
         class="p-2 cursor-pointer"
         v-model="filterByRegion"
       >
-        <option value="">Filter by region</option>
+        <option value="">Filter by regionz</option>
         <option value="africa">Africa</option>
         <option value="asia">Asia</option>
         <option value="oceania">Oceania</option>
