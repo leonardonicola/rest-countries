@@ -31,12 +31,6 @@ Your users should be able to:
 - Click on a country to see more detailed information on a separate page
 - Click through to the border countries on the detail page
 
-
-### Links
-
-- [Em desenvolvimento] Solution URL:
-- [Em desenvolvimento] Live Site URL:
-
 ## My process
 
 ### Built with
